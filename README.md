@@ -1,9 +1,9 @@
-# [CVIU 2024]Low-light Image Enhancement with Wavelet-based Diffusion Models [[Paper]]().
+# [CVIU 2024]Revisiting Coarse-to-fine Strategy for Low-Light Image Enhancement with Deep Decomposition Guided Training [[Paper]]().
 <h4 align="center">Hai Jiang<sup>1</sup>, Yang Ren<sup>1</sup>, Songchen Han<sup>1,†</sup></sup></center>
 <h4 align="center"><sup>1</sup>School of Aeronautics and Astronautics, Sichuan University</center>
 
 ## Pipeline
-![](./Figures/pipeline.pdf)
+![](./Figures/pipeline.jpg)
 
 ## Dependencies
 ```
@@ -33,9 +33,6 @@ python main.py --mode train
 ```
 python main.py --mode test
 ```
-
-## Visual comparison
-![](./Figures/pipeline.pdf)
 
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
