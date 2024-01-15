@@ -2,9 +2,6 @@
 <h4 align="center">Hai Jiang<sup>1</sup>, Yang Ren<sup>1</sup>, Songchen Han<sup>1,†</sup></sup></center>
 <h4 align="center"><sup>1</sup>School of Aeronautics and Astronautics, Sichuan University</center>
 
-## Pipeline
-![](./Figures/pipeline.jpg)
-
 ## Dependencies
 ```
 pip install -r requirements.txt
@@ -20,6 +17,9 @@ LSRW dataset: Jiang Hai, Zhu Xuan, Ren Yang, Yutong Hao, Fengzhu Zou, Fang Lin, 
 
 ### Unpaired datasets 
 Please refer to [[Project Page of RetinexNet.]](https://daooshee.github.io/BMVC2018website/)
+
+## Pipeline
+![](./Figures/pipeline.jpg)
 
 ## Pre-trained Models 
 You can downlaod our pre-trained model from [[Google Drive]]() and [[Baidu Yun (extracted code:)]]()
