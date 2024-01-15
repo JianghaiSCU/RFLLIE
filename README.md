@@ -3,7 +3,7 @@
 <h4 align="center"><sup>1</sup>School of Aeronautics and Astronautics, Sichuan University</center>
 
 ## Pipeline
-![](./Figures/pipeline.png)
+![](./Figures/pipeline.pdf)
 
 ## Dependencies
 ```
@@ -35,7 +35,7 @@ python main.py --mode test
 ```
 
 ## Visual comparison
-![](./Figures/comparison.png)
+![](./Figures/pipeline.pdf)
 
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
