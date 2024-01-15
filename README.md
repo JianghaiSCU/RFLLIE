@@ -1,6 +1,6 @@
 # [CVIU 2024]Low-light Image Enhancement with Wavelet-based Diffusion Models [[Paper]]().
 <h4 align="center">Hai Jiang<sup>1</sup>, Yang Ren<sup>1</sup>, Songchen Han<sup>1,†</sup></sup></center>
-<h4 align="center"><sup>1</sup>.Sichuan University</center>
+<h4 align="center"><sup>1.</sup>Sichuan University</center>
 
 ## Pipeline
 ![](./Figures/pipeline.png)
