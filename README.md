@@ -22,7 +22,7 @@ Please refer to [[Project Page of RetinexNet.]](https://daooshee.github.io/BMVC2
 ![](./Figures/pipeline.jpg)
 
 ## Pre-trained Models 
-You can downlaod our pre-trained model from [[Google Drive]]() and [[Baidu Yun (extracted code:)]]()
+You can downlaod our pre-trained model from [[Google Drive]](https://drive.google.com/drive/folders/1sKjGlWJt2sxHkDApymv0Tgbg4R1Q1ZCb?usp=sharing) and [[Baidu Yun (extracted code:mrzz)]](https://pan.baidu.com/s/1JOL2xlKqoaH4e8Z_fAkalQ )
 
 ## How to train?
 ```
