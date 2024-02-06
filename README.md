@@ -1,4 +1,4 @@
-# [CVIU 2024] Revisiting Coarse-to-fine Strategy for Low-Light Image Enhancement with Deep Decomposition Guided Training [[Paper]]().
+# [CVIU 2024] Revisiting Coarse-to-fine Strategy for Low-Light Image Enhancement with Deep Decomposition Guided Training [[Paper]](https://www.sciencedirect.com/science/article/pii/S107731422400033X).
 <h4 align="center">Hai Jiang<sup>1</sup>, Yang Ren<sup>1</sup>, Songchen Han<sup>1,†</sup></sup></center>
 <h4 align="center"><sup>1</sup>School of Aeronautics and Astronautics, Sichuan University</center>
 
