@@ -37,7 +37,12 @@ python main.py --mode test
 ## Citation
 If you use this code or ideas from the paper for your research, please cite our paper:
 ```
-
+@article{jiang2023low,
+  title={Revisiting Coarse-to-fine Strategy for Low-Light Image Enhancement with Deep Decomposition Guided Training},
+  author={Jiang, Hai and Ren, Yang and Han, Songchen},
+  journal={Computer Vision and Image Understanding},
+  year={2024}
+}
 ```
 
 ## Acknowledgement
